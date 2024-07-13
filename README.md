@@ -10,6 +10,8 @@ DataScienceコースの課題提出に使うリポジトリです。
   1.2.Ownerを自分（あなた）に変更し、Publicでリポジトリを作成する(include all branchesにはチェック入れない)  
   <img width="761" alt="スクリーンショット 2022-04-04 10 46 24" src="https://user-images.githubusercontent.com/70427875/161460958-acb2c2e8-edde-44d9-bc76-3e05a24cbf5b.png"><br>
 
+1.>>>完了　
+
 2. 作成したリポジトリをクローンする。
 
 3. ローカルで下記コマンドを実行し、課題に必要なモジュールをインストールしておく。
